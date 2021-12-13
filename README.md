@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I'm living in Eskisehir,Turkey. I am a Computer Engineering student and it's my 5th semester right now. 
 
-- 💻 Skills: MsSQL / C# / C++ / C / HTML / CSS / MsSQL
+- 💻 Skills:  HTML / CSS / MsSQL / C / C++ / C#
 
 - 🌱 I’m currently learning Python / ASP.NET
 
