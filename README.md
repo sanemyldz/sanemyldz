@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanem Yıldız</h1>  
-<p>I'm living in Eskisehir,Turkey. I am a Computer Engineering student who loves improves herself passionately and sees everything as an opportunity in the way of development. Want to specialize at my career and perform my works wih a perfectionist approach.</p>  
+<p>I'm living in Eskisehir,Turkey. I am a Computer Engineering student who improves herself passionately and sees everything as an opportunity in the way of development. Want to specialize at my career and perform my works wih a perfectionist approach.</p>  
   
 
 <h3 align="left">Languages and Tools:</h3>  
